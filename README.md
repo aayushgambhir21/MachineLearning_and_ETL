@@ -1,6 +1,4 @@
-# Bootcamp-Project4
-
-# Executive Summary: Advanced Predictive Analytics for Toronto's Operating Budget
+# Advanced Predictive Analytics for Toronto's Operating Budget
 
 ## Objective
 This proposal seeks to deploy sophisticated machine learning techniques to analyze the City of Toronto's Operating Budget, with the aim of forecasting trends in fiscal allocations towards the city's highest and lowest expenditure programs and categories. The focus will extend beyond mere historical analysis to offer predictive insights into future budgetary adjustments post-2024, thereby enhancing strategic planning and financial stewardship.
@@ -22,4 +20,3 @@ The anticipated outcomes of this project include:
 ## Conclusion
 Leveraging machine learning to analyze the City of Toronto's Operating Budget presents a transformative opportunity to advance municipal financial planning and program delivery. By providing predictive insights into budgetary trends and program viability, alongside a nuanced understanding of demographic data, this project promises to significantly contribute to the effective and equitable governance of Toronto's diverse community.
 
-Group members: Aayush, Anuradha, Jason, Lucas, Muskan 
