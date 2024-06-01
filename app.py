@@ -402,7 +402,6 @@ def graph_data():
 #============================Demographic Data End===============================
 
 #============================ML Forecasting Categories Start===============================
-#Anuradha's ML Code
 ## Linear regression for five years all categories
 API_ENDPOINT_exp = "http://127.0.0.1:5000/api/v1.0/categories_exp"
 
@@ -858,7 +857,6 @@ def category_rev_clustering():
 #============================ML Clustering Categories End===============================
 
 #============================ML Forecasting Programs Start===============================
-#Aayush's ML Code
 @app.route('/api/rev_program_analysis/<year>')
 def get_rev_analysis_by_year(year):
     try:
@@ -1122,7 +1120,6 @@ def cluster_programs(no_clusters, year):
 #============================ML Clustering Programs End===============================
 
 #============================ML Clustering Demographics Start===============================
-#Jason's Supercode
 @app.route('/api/v1.0/Demo_AHC_Data', methods=['GET'])
 def AHC_Data():
     # Load the pickled clustering model and DataFrame
