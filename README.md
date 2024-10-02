@@ -74,17 +74,14 @@ To run this project, ensure you have Python and the necessary libraries installe
 - **static/**: Static files such as JavaScript and CSS.
 - **requirements.txt**: List of dependencies for the project.
 
-## Results
+## Impact and Benefits
 
-- **Processing Time Reduction**: 20% decrease in data processing time.
-- **Data Accuracy**: 25% improvement in data accuracy.
-- **Forecasting**: Reliable forecasts for post-2024 fiscal trends.
-- **Program Assessment**: Enhanced analysis of program viability for strategic planning.
+The anticipated outcomes of this project include:
 
-## Future Work
+- Enhanced predictive insights into budgetary trends, aiding in more informed fiscal planning and allocation.
+- Early identification of programs at risk of discontinuation, allowing for timely strategic interventions.
+- Improved understanding and classification of demographic data, leading to more effective and inclusive municipal services.
 
-- **Expand Data Sources**: Integrate additional data sources for more comprehensive analysis.
-- **Refine Models**: Improve machine learning models for more accurate forecasting.
-- **User Interface**: Enhance the user interface for better user experience.
-- **Scalability**: Optimize the application for handling larger datasets.
+## Conclusion
 
+Leveraging machine learning to analyze the City of Toronto's Operating Budget presents a transformative opportunity to advance municipal financial planning and program delivery. By providing predictive insights into budgetary trends and program viability, alongside a nuanced understanding of demographic data, this project promises to significantly contribute to the effective and equitable governance of Toronto's diverse community.
